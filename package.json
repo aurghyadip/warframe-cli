@@ -10,10 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.1",
+    "cli-columns": "^3.1.2",
+    "cli-table": "^0.3.1",
     "commander": "^2.17.1",
     "figlet": "^1.2.0",
     "inquirer": "^6.1.0",
     "npm": "^6.3.0",
-    "warframe-items": "^1.29.0"
+    "warframe-items": "^1.29.0",
+    "wordwrap": "^1.0.0"
   }
 }

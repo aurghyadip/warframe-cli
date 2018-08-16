@@ -1,8 +1,12 @@
 {
-  "name": "warframe-mods",
+  "name": "warfram-cli",
   "version": "0.0.1",
   "description": "Details of warframe items",
   "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+    "warframe-cli": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
